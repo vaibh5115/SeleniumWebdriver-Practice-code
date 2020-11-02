@@ -1,0 +1,33 @@
+2020-07-03 02:03:40,704 [main] INFO Log4jDemo - setup method started
+2020-07-03 02:03:40,713 [main] INFO Log4jDemo - setup method is in progress
+2020-07-03 02:03:40,713 [main] INFO Log4jDemo - setup method Completed
+2020-07-03 02:03:40,717 [main] INFO Log4jDemo - login method started
+2020-07-03 02:03:40,723 [main] INFO Log4jDemo - login method is in progress
+2020-07-03 02:03:40,724 [main] INFO Log4jDemo - login successful
+2020-07-03 02:03:40,724 [main] INFO Log4jDemo - login method completed
+2020-07-03 02:03:40,725 [main] INFO Log4jDemo - logout method started
+2020-07-03 02:03:40,725 [main] INFO Log4jDemo - logout method is in progress
+2020-07-03 02:03:40,725 [main] INFO Log4jDemo - logout successful
+2020-07-03 02:03:40,733 [main] INFO Log4jDemo - logout method completed
+2020-07-11 00:47:51,527 [main] INFO Log4jDemo - setup method started
+2020-07-11 00:47:51,564 [main] INFO Log4jDemo - setup method is in progress
+2020-07-11 00:47:51,568 [main] INFO Log4jDemo - setup method Completed
+2020-07-11 00:47:51,576 [main] INFO Log4jDemo - login method started
+2020-07-11 00:47:51,576 [main] INFO Log4jDemo - login method is in progress
+2020-07-11 00:47:51,576 [main] INFO Log4jDemo - login successful
+2020-07-11 00:47:51,577 [main] INFO Log4jDemo - login method completed
+2020-07-11 00:47:51,581 [main] INFO Log4jDemo - logout method started
+2020-07-11 00:47:51,581 [main] INFO Log4jDemo - logout method is in progress
+2020-07-11 00:47:51,581 [main] INFO Log4jDemo - logout successful
+2020-07-11 00:47:51,582 [main] INFO Log4jDemo - logout method completed
+2020-07-11 00:48:39,186 [main] INFO Log4jDemo - setup method started
+2020-07-11 00:48:39,197 [main] INFO Log4jDemo - setup method is in progress
+2020-07-11 00:48:39,198 [main] INFO Log4jDemo - setup method Completed
+2020-07-11 00:48:39,200 [main] INFO Log4jDemo - login method started
+2020-07-11 00:48:39,214 [main] INFO Log4jDemo - login method is in progress
+2020-07-11 00:48:39,215 [main] INFO Log4jDemo - login successful
+2020-07-11 00:48:39,217 [main] INFO Log4jDemo - login method completed
+2020-07-11 00:48:39,222 [main] INFO Log4jDemo - logout method started
+2020-07-11 00:48:39,222 [main] INFO Log4jDemo - logout method is in progress
+2020-07-11 00:48:39,222 [main] INFO Log4jDemo - logout successful
+2020-07-11 00:48:39,222 [main] INFO Log4jDemo - logout method completed
